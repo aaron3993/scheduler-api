@@ -24,6 +24,9 @@
     "jest": "^24.8.0",
     "supertest": "^4.0.2"
   },
+  "engines": {
+    "node": "10.20.1"
+  },
   "jest": {
     "setupFilesAfterEnv": [
       "<rootDir>/src/setupTests.js"
